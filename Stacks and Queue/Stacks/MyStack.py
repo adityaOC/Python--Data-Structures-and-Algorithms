@@ -41,7 +41,7 @@ class MyStack:
         else:
             print(self.items)
 
-
+"""
 stack = MyStack()
 stack.push(5)
 stack.push(6)
@@ -51,3 +51,4 @@ print(stack.peek())
 stack.pop()
 stack.displayAllElements()
 print(stack.size())
+"""
