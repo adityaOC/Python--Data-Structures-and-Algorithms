@@ -9,3 +9,7 @@ def sumOfDigits(n):
         return lastDigit + sumOfDigits(int(n/10))
 
 print(sumOfDigits(54321))
+
+
+
+
