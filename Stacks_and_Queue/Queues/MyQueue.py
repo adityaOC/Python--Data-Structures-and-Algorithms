@@ -23,7 +23,7 @@ class MyQueue:
         self.items.insert(0,item)
 
     def dequeue(self):
-        self.items.pop()
+        return self.items.pop()
 
     def isEmpty(self):
         return len(self.items) == 0
@@ -36,8 +36,7 @@ class MyQueue:
             print("Queue is empty")
         else:
             print(self.items)
-
-
+"""
 queue = MyQueue()
 queue.displayAllElements()
 queue.enqueue(5)
@@ -46,3 +45,4 @@ queue.enqueue(32)
 queue.displayAllElements()
 queue.dequeue()
 queue.displayAllElements()
+"""

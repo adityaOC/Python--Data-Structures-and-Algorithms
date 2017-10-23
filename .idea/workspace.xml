@@ -2,8 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0c563ad-314f-42e0-af29-06cb7e0a80b5" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Linked Lists/.idea/Linked Lists.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Linked Lists/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Linked Lists/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Linked Lists/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Linked Lists/CheckCycle.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Linked Lists/NthToLastNode.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Linked Lists/ReverseLinkedList.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Linked Lists/SinglyLinkedList.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Stacks and Queue/.idea/Stacks and Queue.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Stacks and Queue/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Stacks and Queue/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Stacks and Queue/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Stacks and Queue/Deque/Deque.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Stacks and Queue/Problems/Balance_Parentheses_Check/Balance_Parantheses_Check.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Stacks and Queue/Problems/Queue_Using_Stacks/Queue_Using_Two_Stacks.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Stacks and Queue/Queues/MyQueue.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Stacks and Queue/Stacks/MyStack.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Recursion/SumOfDigits.py" afterPath="$PROJECT_DIR$/Recursion/SumOfDigits.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,11 +31,23 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BinaryHeap.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Trees/BinaryHeap.py">
+      <file leaf-file-name="LevelOrder.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Trees/LevelOrder.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="249">
+              <caret line="40" column="12" lean-forward="true" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyQueue.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Stacks_and_Queue/Queues/MyQueue.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -37,6 +65,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>percDown</find>
+      <find>root2</find>
+      <find>and q.size() &gt;1</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -52,6 +82,9 @@
         <option value="$PROJECT_DIR$/Trees/BinaryNode.py" />
         <option value="$PROJECT_DIR$/Trees/BinaryTree.py" />
         <option value="$PROJECT_DIR$/Trees/BinaryHeap.py" />
+        <option value="$PROJECT_DIR$/Stacks_and_Queue/Stacks/MyStack.py" />
+        <option value="$PROJECT_DIR$/Stacks_and_Queue/Queues/MyQueue.py" />
+        <option value="$PROJECT_DIR$/Trees/LevelOrder.py" />
       </list>
     </option>
   </component>
@@ -75,6 +108,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -102,9 +136,58 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python--Data-Structures-and-Algorithms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python--Data-Structures-and-Algorithms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Stacks_and_Queue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Stacks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python--Data-Structures-and-Algorithms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python--Data-Structures-and-Algorithms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Stacks_and_Queue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Queues" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python--Data-Structures-and-Algorithms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python--Data-Structures-and-Algorithms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Stacks_and_Queue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -122,43 +205,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.BinaryHeap">
-    <configuration default="false" name="CumulativeSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python--Data-Structures-and-Algorithms" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/CumulativeSum.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SumOfDigits" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python--Data-Structures-and-Algorithms" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/SumOfDigits.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.LevelOrder">
     <configuration default="false" name="ReversingString" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,6 +255,42 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python--Data-Structures-and-Algorithms" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trees/BinaryHeap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="LevelOrder" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trees" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python--Data-Structures-and-Algorithms" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trees/LevelOrder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MyQueue" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stacks_and_Queue/Queues" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python--Data-Structures-and-Algorithms" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stacks_and_Queue/Queues/MyQueue.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -278,19 +361,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.CumulativeSum" />
-      <item index="1" class="java.lang.String" itemvalue="Python.SumOfDigits" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ReversingString" />
-      <item index="3" class="java.lang.String" itemvalue="Python.BinaryTree" />
-      <item index="4" class="java.lang.String" itemvalue="Python.BinaryHeap" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ReversingString" />
+      <item index="1" class="java.lang.String" itemvalue="Python.BinaryTree" />
+      <item index="2" class="java.lang.String" itemvalue="Python.BinaryHeap" />
+      <item index="3" class="java.lang.String" itemvalue="Python.LevelOrder" />
+      <item index="4" class="java.lang.String" itemvalue="Python.MyQueue" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.BinaryHeap" />
-        <item index="1" class="java.lang.String" itemvalue="Python.BinaryTree" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ReversingString" />
-        <item index="3" class="java.lang.String" itemvalue="Python.SumOfDigits" />
-        <item index="4" class="java.lang.String" itemvalue="Python.CumulativeSum" />
+        <item index="0" class="java.lang.String" itemvalue="Python.LevelOrder" />
+        <item index="1" class="java.lang.String" itemvalue="Python.MyQueue" />
+        <item index="2" class="java.lang.String" itemvalue="Python.BinaryTree" />
+        <item index="3" class="java.lang.String" itemvalue="Python.BinaryHeap" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ReversingString" />
       </list>
     </recent_temporary>
   </component>
@@ -342,12 +425,55 @@
           <line>17</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Trees/LevelOrder.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Trees/LevelOrder.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="4" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Trees/LevelOrder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees/BinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="24" lean-forward="false" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees/BinaryNode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees/BinaryHeap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Trees/BinaryTree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -368,7 +494,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -452,6 +577,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Trees/BinaryHeap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6">
+          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stacks and Queue/Queues/MyQueue.py" />
+    <entry file="file://$PROJECT_DIR$/Linked Lists/CheckCycle.py" />
+    <entry file="file://$PROJECT_DIR$/Stacks and Queue/Deque/Deque.py" />
+    <entry file="file://$PROJECT_DIR$/Linked Lists/NthToLastNode.py" />
+    <entry file="file://$PROJECT_DIR$/Stacks and Queue/Stacks/MyStack.py" />
     <entry file="file://$PROJECT_DIR$/Trees/BinaryNode.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -462,17 +599,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Trees/BinaryTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="24" lean-forward="false" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+        <state relative-caret-position="264">
+          <caret line="46" column="18" lean-forward="true" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Trees/BinaryHeap.py">
+    <entry file="file://$PROJECT_DIR$/Stacks_and_Queue/Stacks/MyStack.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        <state relative-caret-position="-169">
+          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stacks_and_Queue/Queues/MyQueue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees/LevelOrder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="40" column="12" lean-forward="true" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
