@@ -1,6 +1,6 @@
 
 
-def BinarySearch(arr,element):
+def binarySearch(arr,element):
 
     if len(arr) == 0:
         return False
