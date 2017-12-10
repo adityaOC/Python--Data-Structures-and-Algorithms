@@ -17,6 +17,39 @@ def anagramWithSorting(list1, list2):
     else:
         print("Not anagram")
 
+def anagramCheckWithHashTable(list1,list2):
+
+    list1 = list1.replace(" ","")
+    list2 = list2.replace(" ", "")
+
+    dict = {}
+
+    for c in list1:
+
+        if c in dict:
+            dict[c] = dict[c] + 1
+        else:
+            dict[c] = 1
+
+    for c in list2:
+
+        if c in dict:
+            dict[c] = dict[c] - 1
+        else:
+            dict[c] = 1
+
+    status = True
+    for key in dict:
+
+        if dict[key] != 0:
+            status = False
+
+    if status:
+        print("Anagram")
+    else:
+        print("Not anagram")
 
 
-anagramWithSorting("public relations","crap built on lies")
+anagramCheckWithHashTable("public  relations","crap built on lies")
+
+#anagramWithSorting("public relations","crap built on lies")
