@@ -43,6 +43,18 @@ class MyStack:
             print("Stack is empty")
         else:
             print(self.items)
+    def displayAllElementsInReverseOrder(self):
+        if self.isEmpty():
+            print("Stack is empty")
+        else:
+            temp = []
+            i = len(self.items)-1
+            while i != -1:
+                temp.append(self.items[i])
+                i -= 1
+
+            print(temp)
+
 
 """
 stack = MyStack()
