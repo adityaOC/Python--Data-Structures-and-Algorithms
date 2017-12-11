@@ -5,8 +5,8 @@ Program to check for balanced Parentheses
 
 
 """
-from Stacks.MyStack import MyStack
 
+from Stacks_and_Queue.Stacks.MyStack import MyStack
 
 def check_Balance_Parant(str):
 
@@ -29,7 +29,7 @@ def check_Balance_Parant(str):
             elif s == ']' and stack.peek() == '[':
                 stack.pop()
             else:
-                stack.push(s)
+                return False
 
     if stack.isEmpty():
         return True
@@ -41,4 +41,5 @@ print(check_Balance_Parant('[](){([[[]]])}('))
 print(check_Balance_Parant('[{{{(())}}}]((()))'))
 print(check_Balance_Parant('[[[]])]'))
 print(check_Balance_Parant('[[[]])'))
+print(check_Balance_Parant('([[]])'))
 #print(check_Balance_Parant('[]]['))

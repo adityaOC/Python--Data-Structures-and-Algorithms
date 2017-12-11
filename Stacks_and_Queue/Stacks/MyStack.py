@@ -27,7 +27,10 @@ class MyStack:
         return self.items.pop()
 
     def peek(self):
-        return self.items[len(self.items)-1]
+        if len(self.items)< 1 :
+            return None
+        else:
+            return self.items[len(self.items)-1]
 
     def isEmpty(self):
         return len(self.items) == 0
