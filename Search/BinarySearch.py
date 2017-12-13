@@ -13,13 +13,13 @@ def binarySearch(arr,element):
 
     else:
         if element < arr[mid]:
-            return  BinarySearch(arr[:mid],element)
+            return  binarySearch(arr[:mid],element)
         else:
-            return BinarySearch(arr[mid+1:],element)
+            return binarySearch(arr[mid+1:],element)
 
 
 
-result = BinarySearch([1,2,3,4,5,6,7,8,9],7)
+result = binarySearch([1,2,3,4,5,6,7,8,9],7)
 
 if result:
     print("found")
