@@ -3,7 +3,8 @@ This code reverses the linked list
 
 
 """
-from SinglyLinkedList import SinglyListNode
+
+from Linked_Lists.SinglyLinkedList import SinglyListNode
 
 def reverseList(SinglyListNode):
 
