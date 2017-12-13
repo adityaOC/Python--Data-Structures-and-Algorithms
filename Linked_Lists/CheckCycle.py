@@ -4,8 +4,7 @@ This code checks if there is cycle present in linked list
 
 """
 
-from SinglyLinkedList import SinglyListNode
-
+from Linked_Lists.SinglyLinkedList import SinglyListNode
 
 def checkCycle(SinglyListNode):
 
