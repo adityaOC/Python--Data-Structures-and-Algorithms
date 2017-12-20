@@ -1,4 +1,5 @@
-from SinglyLinkedList import SinglyListNode
+
+from Linked_Lists.SinglyLinkedList import SinglyListNode
 
 def nth_to_last_node(n, head):
 

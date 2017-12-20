@@ -6,3 +6,4 @@ class BinaryNode(object):
         self.leftChild = None
         self.rightChild = None
 
+
