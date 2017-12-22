@@ -33,6 +33,7 @@ class Graph:
         newVertex = Vertex(key,10)
         self.vertices[key] = newVertex
 
+
     def getVertex(self,key):
 
         return self.vertices[key]
