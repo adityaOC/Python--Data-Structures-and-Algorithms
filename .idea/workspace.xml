@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0c563ad-314f-42e0-af29-06cb7e0a80b5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Geeks/Algo/PatternSearching/RabinKarp.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Linked_Lists/SinglyLinkedList.py" afterPath="$PROJECT_DIR$/Linked_Lists/SinglyLinkedList.py" />
     </list>
@@ -15,34 +16,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ArrayPairSum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Arrays/ArrayPairSum.py">
+      <file leaf-file-name="RabinKarp.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Geeks/Algo/PatternSearching/RabinKarp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="57" lean-forward="false" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+            <state relative-caret-position="132">
+              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GraphWithAdjecencyList.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Graphs/GraphWithAdjecencyList.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="17" column="20" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BreadthFirstSearch.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Graphs/BreadthFirstSearch.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="2" column="47" lean-forward="true" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
-              <folding>
-                <element signature="e#0#54#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -50,38 +29,8 @@
       <file leaf-file-name="SinglyLinkedList.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Linked_Lists/SinglyLinkedList.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="79" column="0" lean-forward="true" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CheckCycle.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Linked_Lists/CheckCycle.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="35" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="codecs.py" pinned="false" current-in-tab="false">
-        <entry file="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/codecs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyQueue.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Stacks_and_Queue/Queues/MyQueue.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="83">
+              <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -145,6 +94,7 @@
         <option value="$PROJECT_DIR$/Geeks/Algo/Sorting/SortElementsByFreq.py" />
         <option value="$PROJECT_DIR$/Graphs/GraphWithAdjecencyList.py" />
         <option value="$PROJECT_DIR$/Graphs/DepthFirstSearch.py" />
+        <option value="$PROJECT_DIR$/Geeks/Algo/PatternSearching/RabinKarp.py" />
         <option value="$PROJECT_DIR$/Linked_Lists/SinglyLinkedList.py" />
       </list>
     </option>
@@ -169,7 +119,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -192,41 +142,53 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Trees" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python--Data-Structures-and-Algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python--Data-Structures-and-Algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Sorting" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python--Data-Structures-and-Algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python--Data-Structures-and-Algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="Linked_Lists" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python--Data-Structures-and-Algorithms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python--Data-Structures-and-Algorithms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Geeks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python--Data-Structures-and-Algorithms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python--Data-Structures-and-Algorithms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Geeks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PatternSearching" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -245,24 +207,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.SinglyLinkedList">
-    <configuration default="false" name="BinaryHeap" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trees" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python--Data-Structures-and-Algorithms" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trees/BinaryHeap.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="GraphWithAdjecencyList" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -335,6 +279,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="RabinKarp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Geeks/Algo/PatternSearching" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python--Data-Structures-and-Algorithms" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Geeks/Algo/PatternSearching/RabinKarp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -400,19 +362,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.BinaryHeap" />
-      <item index="1" class="java.lang.String" itemvalue="Python.GraphWithAdjecencyList" />
-      <item index="2" class="java.lang.String" itemvalue="Python.SortElementsByFreq" />
-      <item index="3" class="java.lang.String" itemvalue="Python.DepthFirstSearch" />
-      <item index="4" class="java.lang.String" itemvalue="Python.SinglyLinkedList" />
+      <item index="0" class="java.lang.String" itemvalue="Python.GraphWithAdjecencyList" />
+      <item index="1" class="java.lang.String" itemvalue="Python.SortElementsByFreq" />
+      <item index="2" class="java.lang.String" itemvalue="Python.DepthFirstSearch" />
+      <item index="3" class="java.lang.String" itemvalue="Python.SinglyLinkedList" />
+      <item index="4" class="java.lang.String" itemvalue="Python.RabinKarp" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.SinglyLinkedList" />
-        <item index="1" class="java.lang.String" itemvalue="Python.DepthFirstSearch" />
-        <item index="2" class="java.lang.String" itemvalue="Python.GraphWithAdjecencyList" />
-        <item index="3" class="java.lang.String" itemvalue="Python.SortElementsByFreq" />
-        <item index="4" class="java.lang.String" itemvalue="Python.BinaryHeap" />
+        <item index="1" class="java.lang.String" itemvalue="Python.RabinKarp" />
+        <item index="2" class="java.lang.String" itemvalue="Python.DepthFirstSearch" />
+        <item index="3" class="java.lang.String" itemvalue="Python.GraphWithAdjecencyList" />
+        <item index="4" class="java.lang.String" itemvalue="Python.SortElementsByFreq" />
       </list>
     </recent_temporary>
   </component>
@@ -560,7 +522,14 @@
       <option name="project" value="LOCAL" />
       <updated>1513962552493</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Insertion of node in linked list, traversal">
+      <created>1513983187870</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1513983187871</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -570,7 +539,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36404833" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36404833" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934132" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -611,7 +580,8 @@
     <MESSAGE value="Added color attribute to graph vertex. This is needed in graph teversal like DFS" />
     <MESSAGE value="Problem -  Sort elements by frequency" />
     <MESSAGE value="Implementatin of breadth first search (BFS)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementatin of breadth first search (BFS)" />
+    <MESSAGE value="Insertion of node in linked list, traversal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Insertion of node in linked list, traversal" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -671,23 +641,31 @@
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Geeks/Algo/PatternSearching/RabinKarp.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Geeks/Algo/PatternSearching/RabinKarp.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Geeks/Algo/PatternSearching/RabinKarp.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Linked_Lists/SinglyLinkedList.py</url>
-          <line>29</line>
-          <option name="timeStamp" value="23" />
+          <line>52</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="24" />
+      <option name="time" value="29" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Trees/BinaryNode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Trees/BinaryHeap.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -926,14 +904,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays/ArrayPairSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="57" lean-forward="false" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Search/BinarySearch.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -980,9 +950,32 @@
     </entry>
     <entry file="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
+        <state relative-caret-position="5236">
           <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stacks_and_Queue/Queues/MyQueue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linked_Lists/CheckCycle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="35" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graphs/BreadthFirstSearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="2" column="47" lean-forward="false" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -990,40 +983,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="17" column="20" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Stacks_and_Queue/Queues/MyQueue.py">
+    <entry file="file://$PROJECT_DIR$/Arrays/ArrayPairSum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="255">
+          <caret line="15" column="57" lean-forward="false" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Graphs/BreadthFirstSearch.py">
+    <entry file="file://$PROJECT_DIR$/Geeks/Algo/PatternSearching/RabinKarp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="2" column="47" lean-forward="true" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Linked_Lists/CheckCycle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="35" selection-end-column="14" />
+        <state relative-caret-position="132">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Linked_Lists/SinglyLinkedList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="79" column="0" lean-forward="true" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+        <state relative-caret-position="83">
+          <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
           <folding />
         </state>
       </provider>

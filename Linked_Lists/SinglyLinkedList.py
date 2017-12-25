@@ -48,6 +48,30 @@ class LinkedList():
             newNode.nextnode = temp
             self.size +=1
 
+    def deleteNodeWithKey(self,value):
+
+        node= self.head
+        if node.value == value:
+            self.head = node.nextnode
+            #node = None
+            return
+
+        prevNode = node
+        node = node.nextnode
+
+        while node != None:
+
+            if node.value == value:
+                prevNode.nextnode = node.nextnode
+                #node = None
+                return
+            prevNode = node
+            node = node.nextnode
+
+        print("Node not found!")
+        return
+
+
 
 
 
@@ -72,7 +96,7 @@ list.insertAfterNode(15,3)
 list.appendNode(40)
 list.insertAfterNode(50,5)
 
-
+list.deleteNodeWithKey(15)
 
 list.traverseList()
 
