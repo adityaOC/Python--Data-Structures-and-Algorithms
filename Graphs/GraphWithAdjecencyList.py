@@ -18,7 +18,7 @@ class Vertex:
     def addNeighbour(self,key,weight):
         self.connectedTo[key] = weight
 
-    def getAllCoonectedNeighbours(self,key):
+    def getAllConectedNeighbours(self,key):
         return self.connectedTo
 
 
