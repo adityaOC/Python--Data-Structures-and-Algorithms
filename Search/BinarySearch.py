@@ -18,7 +18,7 @@ def binarySearch(arr,element):
             return binarySearch(arr[mid+1:],element)
 
 
-
+"""
 result = binarySearch([1,2,3,4,5,6,7,8,9],7)
 
 if result:
@@ -26,3 +26,4 @@ if result:
 else:
     print("not found")
 
+"""
