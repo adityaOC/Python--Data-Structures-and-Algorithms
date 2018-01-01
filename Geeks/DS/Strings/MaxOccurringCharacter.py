@@ -15,19 +15,43 @@ def getMaxOccuringChar(string):
             maxChar = c
 
 
-    """
-    for key in hashValues:
 
-        if hashValues[key] > maxCount:
-            maxCount = hashValues[key]
-            maxChar = key
-
-    """
     print("maxChar = {}, maxCount = {}".format(maxChar,maxCount))
 
+def getSecondMostFreqChar(string):
+    maxCount = 0
+    secdondMaxCount = 0
+    maxChar = ''
+    secondMaxChar = ''
+    hashValues = {}
 
-string = 'Max occurring character'
+    for c in string:
+        if  c in hashValues:
+            hashValues[c]+=1
+        else:
+            hashValues[c] = 1
+
+        if hashValues[c] > maxCount:
+            maxCount = hashValues[c]
+            maxChar = c
+        elif hashValues[c]> secdondMaxCount and  hashValues[c] != maxCount:
+            secdondMaxCount = hashValues[c]
+            secondMaxChar = c
+
+    if secdondMaxCount == 0:
+        print("No sec most freq char")
+    else:
+        print("second max char is  {} count = {}".format(secondMaxChar,secdondMaxCount))
+
+
+
+
+
+string = 'aabababa'
 
 getMaxOccuringChar(string)
+
+getSecondMostFreqChar(string)
+
 
 
