@@ -1,5 +1,6 @@
 from Trees.BinaryNode import BinaryNode
 from Stacks_and_Queue.Queues.MyQueue import MyQueue
+from Stacks_and_Queue.Stacks.MyStack import MyStack
 import collections
 
 root = BinaryNode(1)
@@ -64,3 +65,48 @@ def levelOrder(root):
 
 levelOrder(root2)
 
+
+def reverseLevelOrder(root):
+    q = MyQueue()
+    stack = MyStack()
+    q.enqueue(root)
+    q.enqueue(None)
+    arr = [root.key]
+
+    stack.push(arr)
+    arr = []
+
+    while not q.isEmpty():
+
+        top = q.dequeue()
+        if top == None and q.size() >= 1:
+            """if top is None and after dequeue, queue size is 0 (q.size() >=1 is false) 
+
+            then tree traversal is finished"""
+            print("\n")
+
+
+            stack.push(arr)
+            arr = []
+
+            q.enqueue(top)
+
+        elif top:
+
+            if top.leftChild:
+                q.enqueue(top.leftChild)
+                arr.append(top.leftChild.key)
+            if top.rightChild:
+                q.enqueue(top.rightChild)
+                arr.append(top.rightChild.key)
+
+                # q.displayAllElements()
+
+
+    while  not stack.isEmpty():
+
+        arr = stack.pop()
+        print(arr)
+
+print("\nreverse order traversal")
+reverseLevelOrder(root2)
