@@ -85,7 +85,7 @@ class LinkedList():
 
 
 
-
+"""
 list = LinkedList(10)
 list.appendNode(20)
 list.appendNode(30)
@@ -100,7 +100,7 @@ list.deleteNodeWithKey(15)
 
 list.traverseList()
 
-
+"""
 
 
 

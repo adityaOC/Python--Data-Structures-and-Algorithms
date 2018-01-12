@@ -98,11 +98,11 @@ a.rightChild.rightChild = BinaryNode(17)
 
 #inOrder_Traversal(a)
 #preOrder_Treversal(a)
-postOrder_Traversal(a)
+#postOrder_Traversal(a)
 
-print("_____________________________")
+#print("_____________________________")
 #preOrderIterative(a)
-postOrderIterative(a)
+#postOrderIterative(a)
 
 
 
