@@ -90,4 +90,3 @@ if (isCompleteBT(root)):
 else:
     print("NOT Complete Binary Tree")
 
-    # This code is contributed by Nikhil Kumar Singh(nickzuck_007)
