@@ -19,6 +19,45 @@ list = [5,4,3,2,1,10,23,50,33]
 bubbleSort(list)
 
 
+def sortStringForString(str):
+
+    for outer in range(len(str)-1,0,-1):
+        for inner in range(outer):
+            temp1 =ord(str[inner])
+            temp2 = ord(str[inner+1])
+
+            if ord(str[inner])> ord(str[inner+1]):
+                temp = str[inner]
+                str[inner] = str[inner + 1]
+                str[inner + 1] = temp
+
+
+    print(str)
+
+
+
+str = ['d','c','b','a']
+
+
+sortStringForString(str)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 print("_____________________")
