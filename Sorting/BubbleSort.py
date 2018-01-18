@@ -2,8 +2,8 @@
 
 def bubbleSort(arr):
 
-    for outer in range(len(arr)-1):
-        for inner in range (len(arr)-1):
+    for outer in range(len(arr)-1,0,-1):
+        for inner in range (outer):
 
             if arr[inner]> arr[inner + 1]:
                 temp = arr[inner]
@@ -14,7 +14,7 @@ def bubbleSort(arr):
 
 
 
-list = [5,4,3,2,1]
+list = [5,4,3,2,1,10,23,50,33]
 
 bubbleSort(list)
 
